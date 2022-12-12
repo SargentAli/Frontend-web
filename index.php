@@ -19,7 +19,7 @@ if(session_id() == '' || !isset($_SESSION)){session_start();}
     <nav class="top-bar" data-topbar role="navigation">
       <ul class="title-area">
         <li class="name">
-          <h1><a href="index.php">Pokemon card Shop</a></h1>
+          <h1><a href="index.php">Pokemon Card Shop</a></h1>
         </li>
         <li class="toggle-topbar menu-icon"><a href="#"><span></span></a></li>
       </ul>
