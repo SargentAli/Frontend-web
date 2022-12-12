@@ -1,5 +1,5 @@
 <?php
-$currency = '₹';
+$currency = 'S$';
 $db_username = 'glenn';
 $db_password = 'P@ssw0rd';
 $db_name = 'bolt';
