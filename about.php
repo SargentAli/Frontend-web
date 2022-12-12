@@ -57,7 +57,9 @@ if(session_id() == '' || !isset($_SESSION)){session_start();}
         <p>Pokemon Card Shop is a project on E-Commerce Website. All products listed are fake. This project just gives a preview to what a real world implementation of E-Commerce Website will look like. Well if you do like the website then visit
         <a href="http://www.techbarrack.com" target="_blank" title="Tech Barrack Solutions">Tech Barrack Solutions</a>.</p>
 
-        <p>Why BOLT? I am a big fan of Usain Bolt. He is diligent and tries to surpass his previous achievements. And lastly, it was an instant thought. So went for it.</p>
+        <p>Sealed Japanese Products, we have tons of boosters for you to choose from. From your standard booster boxes to rarer ones, such as Gym boxes and event boxes.</p>
+        <p>Single Cards Pikachus! Charizards! Vintage cards! We have rare cards from different eras at competitive prices. Now you can expand your collection without breaking the bank!</p>
+        <p>SG Shipping Don't worry about postage! We provide flat rate shipping, so you save more the more you purchase. Free shipping is available for orders S$250+.</p>
 
         <footer>
            <p style="text-align:center; font-size:0.8em;">&copy; Pokemon Card Shop. All Rights Reserved.</p>
