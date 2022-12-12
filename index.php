@@ -50,8 +50,8 @@ if(session_id() == '' || !isset($_SESSION)){session_start();}
 
 
 
-    <img data-interchange="[images/pokemon-banner.jpg, (retina)], [images/pokemon-banner.jpg, (large)], [images/pokemon-banner.jpg, (mobile)], [images/pokemon-banner.jpg, (medium)]">
-    <noscript><img src="images/pokemon-banner.jpg"></noscript>
+    <img data-interchange="[images/pokemon.jpg, (retina)], [images/pokemon.jpg, (large)], [images/pokemon.jpg, (mobile)], [images/pokemon.jpg, (medium)]">
+    <noscript><img src="images/pokemon.jpg"></noscript>
 
 
     <div class="row" style="margin-top:10px;">
